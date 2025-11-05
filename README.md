@@ -5,9 +5,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=abovethefogg&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-
-## Skills
-
 ### Design:
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-FFBE55?style=for-the-badge&logo=zeplin&logoColor=white)
