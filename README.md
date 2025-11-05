@@ -2,7 +2,7 @@
 
 **Product/UI Designer** · **Frontend Developer**  
 **Co-founder of Danamit**
-
+![Profile views](https://komarev.com/ghpvc/?username=abovethefogg&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
