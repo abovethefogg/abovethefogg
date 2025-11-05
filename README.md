@@ -1,5 +1,3 @@
-# Kasumi  
-
 **Product/UI Designer** · **Frontend Developer**  
 **Co-founder of Danamit**
 
