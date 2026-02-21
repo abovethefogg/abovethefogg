@@ -1,5 +1,6 @@
 **Product/UI Designer** · **Frontend Developer**  
 **Product Designer & Senior UI/UX Designer of Danamit**
+
 Contact me on Telegram:  @abovethefogg
 
 
